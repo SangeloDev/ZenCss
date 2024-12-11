@@ -1,0 +1,7 @@
+# ignore everything apart from repo files
+
+*
+!.gitignore
+!README.md
+!userChrome.css
+!image.png

@@ -3,7 +3,7 @@
 
 Preivew
 
-![Preview](BbbZki9Kho.png)
+![Preview](./image.png)
 
 Essencial tab colours are manual so change them where comments are in css .
 And super pins:
